@@ -1,1 +1,13 @@
-# 各子目录（前端/后端）内部有自己的 .gitignore 处理 node_modules / .venv / .env 等
+# Claude
+.claude/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+mysql-base/
