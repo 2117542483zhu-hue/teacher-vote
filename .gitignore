@@ -1,1 +1,13 @@
-/软件综合课程设计
+# Claude
+.claude/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+mysql-base/
